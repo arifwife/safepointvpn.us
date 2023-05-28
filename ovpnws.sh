@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='49.12.80.157';
-USER='safepointvpn_smartpanel';
-PASS='safepointvpn_smartpanel';
-DBNAME='safepointvpn_smartpanel';
+HOST='119.30.41.51';
+USER='smart444_safepointvpn';
+PASS='smart444_safepointvpn';
+DBNAME='smart444_safepointvpn';
 
 install_require()
 {
